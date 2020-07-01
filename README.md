@@ -1,2 +1,1 @@
-# alura-jsgamedev
-Certificado da semana de Imersão JavaScript GameDev da Alura
+# certificado da Imersão Gamedev JavaScript - Adinan Alves
